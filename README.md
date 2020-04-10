@@ -1,2 +1,1 @@
-# nlp_basics
-Basics of Natural Language Processing (methods and classes)
+# Basics of Natural Language Processing (methods and classes)
